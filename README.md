@@ -21,3 +21,5 @@ Aplikasi Front-End React untuk tes integrasi API Saloka Park.
 1. Clone repository ini:
 ```bash
 git clone https://github.com/ricoWidiyatma/fe-saloka.git
+
+2. langsung di NPM RUN DEV
